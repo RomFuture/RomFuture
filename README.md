@@ -6,7 +6,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 I am a **junior software developer** and an **Informatics student** currently studying at the Faculty of Economics and Management, **Czech University of Life Sciences (ČZU)** in Prague.
 
 My primary focus is on building clean, maintainable solutions in:
@@ -19,7 +19,7 @@ I’m passionate about learning new technologies, collaborating within diverse t
 
 ---
 
-## 🔧 Tech Stack & Tools
+## Tech Stack & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -30,7 +30,7 @@ I’m passionate about learning new technologies, collaborating within diverse t
 
 ---
 
-## 🌍 Languages
+## Languages
 | Language | Comprehension | Production | Interaction |
 |----------|---------------|-----------|-------------|
 | **Russian** (native) | – | – | – |
@@ -39,13 +39,13 @@ I’m passionate about learning new technologies, collaborating within diverse t
 
 ---
 
-## 🎓 Education
+## Education
 **B.Sc. Informatics — Czech University of Life Sciences, Prague**  
 *Faculty of Economics and Management, EQF level 6* (2024 – present)
 
 ---
 
-## 💼 Experience in life 😅
+## Experience in life
 **Social Media Manager (SMM) — Travel Agency "MirBeri"** (Jul 2024 – present)  
 - Manage social media channels and marketing strategy  
 - Create & edit posts, reels, and visual assets  
