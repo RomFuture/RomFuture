@@ -1,4 +1,4 @@
-# Hi there, I'm Roman Glukhov 👋
+# Hi there, I'm Roman G
 
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=Gluhkoyy&style=flat-square&color=blue" alt="Profile views"/>
