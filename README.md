@@ -58,17 +58,6 @@ I’m passionate about learning new technologies, collaborating within diverse t
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:romangluxov51@gmail.com)
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Gluhkoyy)
 
----
-
-<div align="center">
-  <a href="https://github.com/Gluhkoyy">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Gluhkoyy&show_icons=true&theme=default" />
-  </a>
-  <a href="https://github.com/Gluhkoyy">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gluhkoyy&layout=compact" />
-  </a>
-</div>
-
 <p align="center">
   <em>“Code. Learn. Iterate.”</em>
 </p>
