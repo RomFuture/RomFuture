@@ -45,12 +45,11 @@ I’m passionate about learning new technologies, collaborating within diverse t
 
 ---
 
-## 💼 Experience
+## 💼 Experience in life 😅
 **Social Media Manager (SMM) — Travel Agency "MirBeri"** (Jul 2024 – present)  
 - Manage social media channels and marketing strategy  
 - Create & edit posts, reels, and visual assets  
 - Use Photoshop for image editing  
-- Part‑time (~10 h/week) alongside studies
 
 ---
 
