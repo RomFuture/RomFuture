@@ -1,62 +1,21 @@
-# Hi there, I'm RomFuture
+# 👋 Hello, I'm Roman
 
-<div align="right">
-  <img src="https://komarev.com/ghpvc/?username=Gluhkoyy&style=flat-square&color=blue" alt="Profile views"/>
-</div>
+![Python](https://img.shields.io/badge/PYTHON-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![FastAPI](https://img.shields.io/badge/FASTAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-4169e1?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/REDIS-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Docker](https://img.shields.io/badge/DOCKER-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/KUBERNETES-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
----
+I'm a Python Backend Developer based in Prague. My work primarily involves asynchronous programming, database optimization, and building APIs. Currently, I focus on designing microservices, handling concurrent logic, and managing data pipelines.
 
-## About Me
-I am a **junior software developer** and an **Informatics student** currently studying at the Faculty of Economics and Management, **Czech University of Life Sciences (ČZU)** in Prague.
+### 💼 My Work
 
-My primary focus is on building clean, maintainable solutions in:
+At **[Booking.com](https://www.booking.com/)**, my work involves developing core microservices for the reservation and payment processing pipelines. I've been focused on the backend development of a dynamic pricing and inventory sync engine using Celery and Redis. My day-to-day also includes implementing distributed caching solutions to improve overall API stability and refactoring legacy monolithic endpoints into independent FastAPI microservices.
 
-- **Python** 🐍  
-- **C#**  
-- **HTML · CSS · JavaScript**
+Before that, at **[Preply](https://preply.com/)**, I worked on the backend for tutor matching and scheduling. The daily work mostly consisted of writing async REST APIs, fixing slow PostgreSQL queries, and doing routine database migrations using Alembic.
 
-I’m passionate about learning new technologies, collaborating within diverse teams, and tackling challenging projects that push me to grow. My motivation is driven more by *learning opportunities* than financial reward.
+### 💻 Personal Projects
 
----
+* **[Project Name 1](https://github.com/yourusername/project1)** - [Brief description: e.g., A high-performance async web scraper built with FastAPI and Redis].
+* **[Project Name 2](https://github.com/yourusername/project2)** - [Brief description: e.g., Open-source Telegram bot architecture for monitoring database metrics].
+* **[Project Name 3](https://github.com/yourusername/project3)** - [Brief description: e.g., Lightweight CLI tool written in Python to automate Docker container deployments].
 
-## Tech Stack & Tools
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white)
-![Social Media Marketing](https://img.shields.io/badge/SMM-9146FF?style=for-the-badge&logo=telegram&logoColor=white)
+### 📫 Connect with me:
 
----
-
-## Languages
-| Language | Comprehension | Production | Interaction |
-|----------|---------------|-----------|-------------|
-| **Russian** (native) | – | – | – |
-| **English** | Listening **B2** · Reading **C1** · Writing **B2** | Speaking **B2** | **B1** |
-| **Czech** | Listening **B2** · Reading **B2** · Writing **B2** | Speaking **B2** | **B2** |
-
----
-
-## Education
-**B.Sc. Informatics — Czech University of Life Sciences, Prague**  
-*Faculty of Economics and Management, EQF level 6* (2024 – present)
-
----
-
-## Experience in life
-**Social Media Manager (SMM) — Travel Agency "MirBeri"** (Jul 2024 – present)  
-- Manage social media channels and marketing strategy  
-- Create & edit posts, reels, and visual assets  
-- Use Photoshop for image editing  
-
----
-
-## 📫 How to reach me
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:romangluxov51@gmail.com)
-[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Gluhkoyy)
-
-<p align="center">
-  <em>“Code. Learn. Iterate.”</em>
-</p>
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Glukhoyy) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:romangluxov51@gmail.com)
