@@ -12,9 +12,9 @@ Before that, at **[Preply](https://preply.com/)**, I worked on the backend for t
 
 ### 💻 Personal Projects
 
-* **[Project Name 1](https://github.com/yourusername/project1)** - [Brief description: e.g., A high-performance async web scraper built with FastAPI and Redis].
-* **[Project Name 2](https://github.com/yourusername/project2)** - [Brief description: e.g., Open-source Telegram bot architecture for monitoring database metrics].
-* **[Project Name 3](https://github.com/yourusername/project3)** - [Brief description: e.g., Lightweight CLI tool written in Python to automate Docker container deployments].
+* **[microservice-FASTAPI-RabbitMQ](https://github.com/RomFuture/microservice-FASTAPI-RabbitMQ.git)** - [A scalable, event-driven microservice architecture for processing orders in real-time using FastAPI, RabbitMQ, PostgreSQL, and Redis with Kubernetes support.].
+* **[all-things-in-one-place](https://github.com/RomFuture/all-things-in-one-place.git)** - [A production-ready REST API boilerplate showcasing a modern backend stack: FastAPI, Celery, Redis, SQLAlchemy, and Docker Compose.].
+* **[PYpelines](https://github.com/RomFuture/PYpelines)** - [A dedicated repository for data pipeline source code, focusing on efficient data processing and ETL workflows in Python.].
 
 ### 📫 Connect with me:
 
