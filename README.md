@@ -12,9 +12,9 @@ Before that, at **[Preply](https://preply.com/)**, I worked on the backend for t
 
 ### 💻 Personal Projects
 
-* **[microservice-FASTAPI-RabbitMQ](https://github.com/RomFuture/microservice-FASTAPI-RabbitMQ.git)** - [A scalable, event-driven microservice architecture for processing orders in real-time using FastAPI, RabbitMQ, PostgreSQL, and Redis with Kubernetes support.].
-* **[all-things-in-one-place](https://github.com/RomFuture/all-things-in-one-place.git)** - [A production-ready REST API boilerplate showcasing a modern backend stack: FastAPI, Celery, Redis, SQLAlchemy, and Docker Compose.].
-* **[PYpelines](https://github.com/RomFuture/PYpelines)** - [A dedicated repository for data pipeline source code, focusing on efficient data processing and ETL workflows in Python.].
+* **[microservice-FASTAPI-RabbitMQ](https://github.com/RomFuture/microservice-FASTAPI-RabbitMQ.git)** - A scalable, event-driven microservice architecture for processing orders in real-time using FastAPI, RabbitMQ, PostgreSQL, and Redis with Kubernetes support.
+* **[all-things-in-one-place](https://github.com/RomFuture/all-things-in-one-place.git)** - A production-ready REST API boilerplate showcasing a modern backend stack: FastAPI, Celery, Redis, SQLAlchemy, and Docker Compose.
+* **[PYpelines](https://github.com/RomFuture/PYpelines)** - A dedicated repository for data pipeline source code, focusing on efficient data processing and ETL workflows in Python.
 
 ### 📫 Connect with me:
 
